@@ -20,7 +20,7 @@ console.log(
     /* num.toFixed(1) */
     
 
-    /* git config --global user.name "baxtzod"
+    /* git config --global user.name "Baxtzodjon"
     git config --global user.email "baxtzod@gmail.com" */
 
 );
