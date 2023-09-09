@@ -14,13 +14,15 @@ console.log(
     /* Math.max(num, numTwo) */
     /* Math.min(num, numTwo) */
 
-    /*  parseInt(num) */ /* переводит из стороки в число убирая запятые */
-    /* parseFloat(num) */ /* переводит из стороки в число */
+    /*  parseInt(num) */ /* переводит из сторки в число убирая запятые */
+    /* parseFloat(num) */ /* переводит из сторки в число */
    
     /* num.toFixed(1) */
     
 
     /* git config --global user.name "Baxtzodjon"
-    git config --global user.email "baxtzod@gmail.com" */
+    git config --global user.email "rasulovbaxtzod@gmail.com" */
+
+    /* console.log(); */
 
 );
